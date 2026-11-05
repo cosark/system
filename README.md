@@ -73,6 +73,10 @@ cd my-program
 phresh dev
 ```
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/PhreshOS/)
+
 ## What the System does
 
 The System owns the running state of PhreshOS:
